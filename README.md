@@ -1,4 +1,5 @@
 FILES:
+
 CodeBook.md describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
 run_analysis.R contains all the code to perform the analyses described in the 5 steps. 
 1.Merges the training and the test sets to create one data set.
